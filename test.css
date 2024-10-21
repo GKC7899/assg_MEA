@@ -1,0 +1,39 @@
+.black-card{
+    background-color: black;
+    padding: 30px;
+
+
+}
+.heading{
+    color: white;
+}
+
+.paragraph{
+    color: white;
+}
+.red-card{
+    background-color:red;
+    padding: 30px;
+    margin-top:20px;
+    margin-right:20px;
+    border-radius: 20px;
+}
+.green-card{
+    background-color:green;
+    padding: 30px;
+    margin-top:20px;
+    margin-right:20px;
+    border-radius: 20px;
+}
+
+
+.blue-card{
+    background-color:blue;
+    padding: 30px;
+    margin-top:20px;
+    margin-right:20px;
+    border-radius: 20px;
+}
+.container {
+    display: flex;
+  }
